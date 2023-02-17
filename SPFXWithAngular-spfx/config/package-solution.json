@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-with-angular-spfx-client-side-solution",
+    "id": "15031c34-5af2-45a7-b97f-5feaf864e66b",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "SPFXWithAngular-spfx description"
+      },
+      "longDescription": {
+        "default": "SPFXWithAngular-spfx description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "spfx-with-angular-spfx Feature",
+        "description": "The feature that activates elements of the spfx-with-angular-spfx solution.",
+        "id": "e583d95c-9e1e-48cb-b3ae-4f538dd17d44",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-with-angular-spfx.sppkg"
+  }
+}

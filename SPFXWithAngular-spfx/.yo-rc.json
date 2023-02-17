@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "spfx-with-angular-spfx",
+    "libraryId": "15031c34-5af2-45a7-b97f-5feaf864e66b",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "SPFXWithAngular-spfx",
+    "solutionShortDescription": "SPFXWithAngular-spfx description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
